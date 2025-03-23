@@ -1,3 +1,8 @@
+# COMPSOC-
+>>>>>>> origin/main
+compsoc_tanny/compsoc
+/criteria_check.pyを実行すればtrue/falseを並べた表が出てくるはず。。。
+
 <<<<<<< HEAD
 <a  name="_"></a>
 
@@ -328,7 +333,3 @@ If you find this code to be of any use, please let me know. I would also welcome
 
 Copyright (c) 2023 Rafik Hadfi, rafik [dot] hadfi [at] gmail [dot] com
 =======
-# COMPSOC-
->>>>>>> origin/main
-compsoc_tanny/compsoc
-/criteria_check.pyを実行すればtrue/falseを並べた表が出てくるはず。。。
