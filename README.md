@@ -1,7 +1,6 @@
 # COMPSOC-
->>>>>>> origin/main
-compsoc_tanny/compsoc
-/criteria_check.pyを実行すればtrue/falseを並べた表が出てくるはず。。。
+origin/main
+compsoc_tanny/compsoc/criteria_check.pyを実行すればtrue/falseを並べた表が出てくるはず。。。
 
 <<<<<<< HEAD
 <a  name="_"></a>
