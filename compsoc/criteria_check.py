@@ -44,11 +44,11 @@ def ooz(b):
         return 1
     else:
         return 0
-rep=1000
+rep=100
 candidatess=[6]
-voterss=[1000]
+voterss=[100]
 topns=[1]
-voter_models=["unani"]
+voter_models=["random","unani"]
 distortions=[0.2]
 verbose=False
 

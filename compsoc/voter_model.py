@@ -128,7 +128,7 @@ def get_pairs_from_model(num_candidates: int, num_voters: int, voters_model, *ar
         pairs = generate_gaussian_votes(mu, stdv, num_voters, num_candidates)
     elif voters_model == 'random':
         pairs = generate_random_votes(num_voters, num_candidates)
-    elif 0<=voters_model:
+    elif voters_model=="unani":
         pairs = generate_unani_votes(voters_model,num_voters, num_candidates)
     
     else:
