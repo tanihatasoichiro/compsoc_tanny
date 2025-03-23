@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a  name="_"></a>
 
 <p align="center">
@@ -326,3 +327,6 @@ details.
 If you find this code to be of any use, please let me know. I would also welcome any feedback.
 
 Copyright (c) 2023 Rafik Hadfi, rafik [dot] hadfi [at] gmail [dot] com
+=======
+# COMPSOC-
+>>>>>>> origin/main
