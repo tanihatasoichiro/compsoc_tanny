@@ -8,7 +8,7 @@ pip install git+https://github.com/raviq/compsoc.git
 
 次に↑を実行してcompsoc moduleをインストールしてください。
 
-origin/maincompsoc_tanny/compsoc/criteria_check.pyを実行すればtrue/falseを並べた表が出てくるはずです。。。
+compsoc_tanny/compsoc/criteria_check.pyを実行すればtrue/falseを並べた表が出てくるはずです。。。
 
 以下Rafik先生の書いたCOMPSOCの解説文そのまま。
 
